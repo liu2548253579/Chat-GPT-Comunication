@@ -1,0 +1,4 @@
+IFLY_APP_ID:xxxxxx
+IFLY_API_KEY:xxxxxxx
+IFLY_SECRET_KEY:xxxxxx
+GPT_API:sk-xxxxxx
